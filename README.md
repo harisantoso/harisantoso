@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at [https://harisantoso.github.io/](https://harisantoso.github.io/)
 
-- 📫 How to reach me **harysanttos@gmail.com**
+- 📫 How to reach me **santosohr.ri@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
